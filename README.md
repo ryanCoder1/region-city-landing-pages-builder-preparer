@@ -1,5 +1,6 @@
 # region-city-landing-pages-builder-preparer
 
+Sets up a State, City list in .txt file that's originally read from a .txt of zip codes. The results can be copy and pasted into the Wordpress Plugin Region-City-Landing-Pages-Builder. 
 
 For a listing to show up on google maps for a given search (e.g. Web Designers in Manchester, NH) after registering the address through google.
 
