@@ -6,10 +6,10 @@ For a listing to show up on google maps for a given search (e.g. Web Designers i
 
 Find a website like https://www.freemaptools.com/find-zip-codes-inside-radius.htm
 
-Start a search of a specific city and the radius from it 
-This will print out a list of zip codes that can be put in .txt file. 
+Start a search of a specific city and the radius from it. 
+This will print out a list of zip codes that can be copy and pasted into a .txt file. 
 The .txt file of the zip codes is ran through the browser as a localhost url
-http:// localhost:8080 / generatecitystate.php?fileName= (name of .txt file without the .txt on it) 
+http:// localhost:8080 / generatecitystate.php?fileName= (name of zipcode .txt file WITHOUT the .TXT AT THE END) 
 
 With a google map api access key, that you need to provide, the zip codes are read from the .txt file and returned as a State, City 
 combination in a new .txt file with the same name as the query string in the url but with (write) added to the end. 
